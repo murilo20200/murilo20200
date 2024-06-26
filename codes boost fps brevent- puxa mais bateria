@@ -1,4 +1,6 @@
-
+codes 
 settings put system debug.sf_frame_rate_multiple_fences 999
 settings put system debug.performance_schema 1 
-  
+settings put system debug.sf_high_fps_early_gl_phase-offset_ns 14400000
+delete codes system modulo 
+
