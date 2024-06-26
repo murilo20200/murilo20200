@@ -1,0 +1,4 @@
+
+settings put system debug.sf_frame_rate_multiple_fences 999
+settings put system debug.performance_schema 1 
+  
